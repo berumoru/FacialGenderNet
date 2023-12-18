@@ -1,0 +1,1 @@
+python ./tools/split_dataset.py
